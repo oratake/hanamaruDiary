@@ -10,3 +10,8 @@
 1. あなたの大事なひとに「はなまる」が届きます
   
 …となる予定です。のんびりつくります。
+
+## docker-compose
+`$ docker-compose build`
+`$ docker-compose up -d`
+`$ docker-compose run web rails db:create`
