@@ -1,0 +1,13 @@
+.DS_Store
+/docker/mysql/volumes/*
+
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+/log/*
+/tmp/*
+/public/assets/*
+!/log/.keep
+!/tmp/.keep
+.byebug_history
